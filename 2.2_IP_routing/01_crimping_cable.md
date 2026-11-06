@@ -17,7 +17,7 @@ Upload **photos or screenshots** showing each of the following:
 - Final crimped cable  
 - (Optional) Cable tester output  
 
-_Insert images here_<img width="327" height="198" alt="image" src="https://github.com/user-attachments/assets/1591c079-7c60-44d4-963f-6947880eff57" />
+_Insert images here_
 
 
 ## 1.3 Reflection
